@@ -1,0 +1,1 @@
+MyBrand is a modern, fully responsive website showcasing creative web solutions, services, and projects. It features smooth animations, an interactive hero slider, service cards with avatars, an animated portfolio, client testimonials, and a contact form with live Google Map location.
